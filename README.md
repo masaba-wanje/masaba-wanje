@@ -11,6 +11,7 @@ I have hands-on experience with the following technologies:
 
 - HTML
 - CSS
+- Javascript
 - Python
 - SQLite
 
