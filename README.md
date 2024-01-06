@@ -9,16 +9,15 @@ This repository serves as a showcase of my projects and skills.
 ## Skills
 I have hands-on experience with the following technologies:
 
-- HTML
-- CSS
-- Javascript
 - Python
-- SQLite
+- Django 
+- Django- REST
+- mySQL
 
 ## Projects
 Here are some of the projects I'm currently working on or have completed:
 
-1. [Project One](link-to-repo): Brief description of the project.
+1. [Learning Python](link-to-repo): Brief description of the project.
 2. [Project Two](link-to-repo): Brief description of the project.
 3. [Project Three](link-to-repo): Brief description of the project.
 
